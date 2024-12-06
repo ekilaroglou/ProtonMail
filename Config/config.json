@@ -1,0 +1,6 @@
+{
+  "protonmail_username": "your_protonmail_username",
+  "protonmail_password": "your_protonmail_password",
+  "email_subject": "Your Subject Here",
+  "attach_files": "True"
+}

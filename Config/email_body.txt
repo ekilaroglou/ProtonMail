@@ -1,0 +1,3 @@
+Here is the main body of the email.
+
+<span style="font-size: 0.875rem;"> I you want to add style you can add html </span>
